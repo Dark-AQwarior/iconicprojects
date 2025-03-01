@@ -1,3 +1,3 @@
 # IconicRealityProject
 
-Link - https://dark-aqwarior.github.io/IconicRealityProject
+Link - https://dark-aqwarior.github.io/iconicprojects/
